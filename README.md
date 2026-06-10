@@ -8,7 +8,7 @@
 - 새로고침 후 선택 날짜 및 주차 유지
 ---
 ### 프로젝트 구조
-src
+src  
 ├─ components  
 │ ├─ WeeklyCalendar.jsx  
 │ ├─ TodoInput.jsx  
