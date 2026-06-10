@@ -9,14 +9,14 @@
 ---
 ### 프로젝트 구조
 src
-├─ components
-│ ├─ WeeklyCalendar.jsx
-│ ├─ TodoInput.jsx
-│ ├─ FilterButtons.jsx
-│ ├─ TodoList.jsx
-│ └─ TodoItem.jsx
-│
-└─ App.jsx
+├─ components  
+│ ├─ WeeklyCalendar.jsx  
+│ ├─ TodoInput.jsx  
+│ ├─ FilterButtons.jsx  
+│ ├─ TodoList.jsx  
+│ └─ TodoItem.jsx  
+│  
+└─ App.jsx  
 - App.jsx : 상태 관리 및 데이터 처리
 - WeeklyCalendar.jsx : 주간 달력 UI
 - TodoInput.jsx : Todo 입력
